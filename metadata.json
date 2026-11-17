@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Study Planner",
+  "description": "AI-powered personalized learning and Bayesian Knowledge Tracing study planner for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
